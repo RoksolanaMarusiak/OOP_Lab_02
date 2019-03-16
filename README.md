@@ -1,1 +1,1 @@
-# OOP_Lab_02
+# OOP Lab #02: Working with Dynamic Memory
